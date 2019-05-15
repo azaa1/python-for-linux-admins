@@ -1,2 +1,1 @@
-# some_python
-some python
+# python for Unix/Linux sys-admin
