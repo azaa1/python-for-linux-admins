@@ -15,7 +15,7 @@ def uname_func():
 def disk_func():
     diskspace = "df"
     diskspace_arg = "-h"
-    print ("Gathering diskspace information with %s command:\n" % uname)
+    print ("Gathering diskspace information with %s command:\n" % diskspace)
     subprocess.call([diskspace, diskspace_arg])
 
 #Main function that call other functions
