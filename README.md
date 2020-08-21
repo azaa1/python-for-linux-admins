@@ -1,1 +1,16 @@
-# python for Unix/Linux sys-admin
+# Python for Unix/Linux Admins
+![Alt text](img/pythonlinux.jpg?raw=true "Title")
+
+## Project
+
+A simple guide to usage of Python for Unix/Linux system admins. 
+
+## Files
+
+[get_cwd.py](get_cwd.py)
+
+[netstat.py](netstat.py)
+
+[pysysinfo.py](pysysinfo.py)
+
+[ss.py](ss.py)
