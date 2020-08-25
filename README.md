@@ -7,6 +7,8 @@ A simple guide to usage of Python for Unix/Linux system admins.
 
 ## Files
 
+[ls.py](ls.py)
+
 [get_cwd.py](get_cwd.py)
 
 [netstat.py](netstat.py)
