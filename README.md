@@ -21,3 +21,4 @@ A simple guide to usage of Python for Unix/Linux system admins.
 
 [check_string.py](check_string.py) - check if a string is inside the file or not
 
+[file_path.py](file_path.py) - print absolute path of a file
