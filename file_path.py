@@ -1,3 +1,4 @@
 # File Path
 import os
-print os.path.abspath("/tmp/testfile")
+os.chdir("/tmp")
+print os.path.abspath("testfile")
