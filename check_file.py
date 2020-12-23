@@ -1,7 +1,7 @@
 import os, os.path
 
-folder = r'/c/Users/ahmad/Desktop/aKumoTechnology/python-for-linux-admins'
-file = 'ls.py'
+folder = r'/tmp'
+file = 'test.txt'
 
 if os.path.exists(os.path.join(folder, file)):
     print('File exists')
