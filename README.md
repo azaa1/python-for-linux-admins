@@ -16,3 +16,5 @@ A simple guide to usage of Python for Unix/Linux system admins.
 [pysysinfo.py](pysysinfo.py)
 
 [ss.py](ss.py)
+
+[check_file.py](check_file.py)
