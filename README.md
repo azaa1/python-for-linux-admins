@@ -17,4 +17,4 @@ A simple guide to usage of Python for Unix/Linux system admins.
 
 [ss.py](ss.py)
 
-[check_file.py](check_file.py)
+[check_file.py](check_file.py) - check if a file is inside the folder or not.
