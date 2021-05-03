@@ -7,6 +7,8 @@ A simple guide to usage of Python for Unix/Linux system admins.
 
 ## Files
 
+[read_json](read_json) - simple scripts to read/extract json data 
+
 [ls.py](ls.py) - run 'ls -l' command
 
 [get_cwd.py](get_cwd.py) - get current working directory
