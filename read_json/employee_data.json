@@ -1,0 +1,19 @@
+{
+    "emp_details": [
+        {
+            "emp_name": "john",
+            "email": "john@testmail.com",
+            "title": "devops"
+        },
+        {
+            "emp_name": "anna",
+            "email": "anna@testmail.com",
+            "title": "system_engineer"
+        },
+        {
+            "emp_name": "bob",
+            "email": "bob@gtestmail.com",
+            "title": "system_admin"
+        }
+    ]
+}
