@@ -7,7 +7,9 @@ A simple guide to usage of Python for Unix/Linux system admins.
 
 ## Files
 
-[read_json](read_json) - simple scripts to read/extract json data 
+[read_json](read_json) - simple scripts to read/extract json data
+
+[write_json](write_json) - simple scripts to write json data 
 
 [ls.py](ls.py) - run 'ls -l' command
 
